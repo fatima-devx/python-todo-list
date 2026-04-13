@@ -1,2 +1,2 @@
-# python-todo-list
-A simple To-Do List application built using Python, implementing file handling, lists, and functions to manage daily tasks.
+This project is a command-line To-Do List application developed in Python.
+It allows users to add, view, and delete tasks while storing data using file handling.
